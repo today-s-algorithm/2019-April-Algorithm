@@ -25,8 +25,8 @@
 # 👩‍💻Progress
 
 ### godori
-[알고리즘 목록](https://www.notion.so/godori/Today-625d5e0d19294ab3b990f90f052f0d67)
-[0403](https://www.notion.so/godori/Cats-and-a-Mouse-3345757749734bfd99c85e8ebabe1d14#3345757749734bfd99c85e8ebabe1d14)
+- [알고리즘 목록](https://www.notion.so/godori/Today-625d5e0d19294ab3b990f90f052f0d67)
+- [cats-and-a-mouse](https://www.notion.so/godori/Cats-and-a-Mouse-3345757749734bfd99c85e8ebabe1d14#3345757749734bfd99c85e8ebabe1d14)
 ### sweetroute
 
 ### 현정
