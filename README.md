@@ -35,6 +35,8 @@
 
 ### gyoungeunbae
 
+* [🐱-cats-and-a-mouse-🐭](<https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/CatsandMouse.java>)
+
 ### MinjeeKang
 
 
@@ -43,11 +45,11 @@
 
 # 🌓WEEK2::
 
-| Date | Host | Question Link |
-| ---- | ---- | ------------- |
-|      |      |               |
-|      |      |               |
-|      |      |               |
+| Date   | Host         | Question Link |
+| ------ | ------------ | ------------- |
+| 08 Mon | 현정         |               |
+| 10 Wed | HeaIn        |               |
+| 12 Fri | gyoungeunbae |               |
 
 # 👩‍💻Progress
 
