@@ -28,6 +28,8 @@
 - [알고리즘 목록](https://www.notion.so/godori/Today-625d5e0d19294ab3b990f90f052f0d67)
 - [cats-and-a-mouse](https://www.notion.so/godori/Cats-and-a-Mouse-3345757749734bfd99c85e8ebabe1d14#3345757749734bfd99c85e8ebabe1d14)
 ### sweetroute
+- [cut-the-sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
+- [cats-and-a-mouse](https://sweetroute.tistory.com/entry/HackerRankCCats-and-a-Mouse)
 
 ### 현정
 
