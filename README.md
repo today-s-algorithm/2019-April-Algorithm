@@ -34,6 +34,7 @@
 ### 현정
 
 ### HeaIn
+- [cut-the-sticks](https://github.com/HeaIn/TodayAlgorithm/blob/master/0401CutTheSticks.java)
 
 ### gyoungeunbae
 
