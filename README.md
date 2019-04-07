@@ -52,7 +52,7 @@
 | ------ | ------------ | ------------------------------------------------------------ |
 | 08 Mon | 현정         |                                                              |
 | 10 Wed | HeaIn        |                                                              |
-| 12 Fri | gyoungeunbae | [CountungValleys](<https://www.hackerrank.com/challenges/counting-valleys/problem>) |
+| 12 Fri | gyoungeunbae | [1234의 나라](<https://programmers.co.kr/learn/courses/30/lessons/12899>) |
 
 # 👩‍💻Progress
 
