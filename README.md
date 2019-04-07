@@ -35,6 +35,7 @@
 
 ### gyoungeunbae
 
+* [💇‍♀️cuts-and-sticks](<https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/CuttheSticks.java>)
 * [🐱-cats-and-a-mouse-🐭](<https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/CatsandMouse.java>)
 
 ### MinjeeKang
