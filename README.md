@@ -48,11 +48,11 @@
 
 # 🌓WEEK2::
 
-| Date   | Host         | Question Link |
-| ------ | ------------ | ------------- |
-| 08 Mon | 현정         |               |
-| 10 Wed | HeaIn        |               |
-| 12 Fri | gyoungeunbae |               |
+| Date   | Host         | Question Link                                                |
+| ------ | ------------ | ------------------------------------------------------------ |
+| 08 Mon | 현정         |                                                              |
+| 10 Wed | HeaIn        |                                                              |
+| 12 Fri | gyoungeunbae | [CountungValleys](<https://www.hackerrank.com/challenges/counting-valleys/problem>) |
 
 # 👩‍💻Progress
 
