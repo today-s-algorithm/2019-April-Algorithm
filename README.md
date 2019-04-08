@@ -48,8 +48,8 @@
 
 | Date   | Host         | Question Link                                                |
 | ------ | ------------ | ------------------------------------------------------------ |
-| 08 Mon | HeaIn        | [append-and-delete](<https://www.hackerrank.com/challenges/append-and-delete/problem>)  |
-| 10 Wed | gyoungeunbae | [1234의 나라](<https://programmers.co.kr/learn/courses/30/lessons/12899>)  |
+| 08 Mon | HeaIn        | [append-and-delete](<https://www.hackerrank.com/challenges/append-and-delete/problem>) |
+| 10 Wed | gyoungeunbae | [CountungValleys](<https://www.hackerrank.com/challenges/counting-valleys/problem>) |
 | 12 Fri | MinjeeKang   |                                                              |
 
 # 👩‍💻Progress
@@ -63,6 +63,56 @@
 ### gyoungeunbae
 
 ### MinjeeKang
+
+### divetech
+
+
+
+# 🌔WEEK3::
+
+| Date   | Host       | Question Link |
+| ------ | ---------- | ------------- |
+| 15 Mon | divetech   |               |
+| 17 Wed | godori     |               |
+| 19 Fri | sweetroute |               |
+
+# 👩‍💻Progress
+
+### godori
+
+### sweetroute
+
+### HeaIn
+
+### gyoungeunbae
+
+### MinjeeKang
+
+### divetech
+
+
+
+# 🌝WEEK4::
+
+| Date   | Host         | Question Link |
+| ------ | ------------ | ------------- |
+| 22 Mon | HeaIn        |               |
+| 24 Wed | gyoungeunbae |               |
+| 26 Fri | MinjeeKang   |               |
+
+# 👩‍💻Progress
+
+### godori
+
+### sweetroute
+
+### HeaIn
+
+### gyoungeunbae
+
+### MinjeeKang
+
+### divetech
 
 
 
