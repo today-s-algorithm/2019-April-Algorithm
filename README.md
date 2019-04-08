@@ -30,9 +30,6 @@
 ### sweetroute
 - [cut-the-sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
 - [cats-and-a-mouse](https://sweetroute.tistory.com/entry/HackerRankCCats-and-a-Mouse)
-
-### 현정
-
 ### HeaIn
 - [cut-the-sticks](https://github.com/HeaIn/TodayAlgorithm/blob/master/0401CutTheSticks.java)
 
@@ -60,8 +57,6 @@
 ### godori
 
 ### sweetroute
-
-### 현정
 
 ### HeaIn
 
