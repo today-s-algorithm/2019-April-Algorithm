@@ -48,9 +48,9 @@
 
 | Date   | Host         | Question Link                                                |
 | ------ | ------------ | ------------------------------------------------------------ |
-| 08 Mon | 현정         |                                                              |
-| 10 Wed | HeaIn        |                                                              |
-| 12 Fri | gyoungeunbae | [1234의 나라](<https://programmers.co.kr/learn/courses/30/lessons/12899>) |
+| 08 Mon | HeaIn        | [append-and-delete](<https://www.hackerrank.com/challenges/append-and-delete/problem>)  |
+| 10 Wed | gyoungeunbae | [1234의 나라](<https://programmers.co.kr/learn/courses/30/lessons/12899>)  |
+| 12 Fri | MinjeeKang   |                                                              |
 
 # 👩‍💻Progress
 
