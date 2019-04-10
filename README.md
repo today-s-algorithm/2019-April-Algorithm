@@ -10,7 +10,7 @@
 
 3. **순서**
 
-   치즈 -> 도리 -> 사라 -> 마스 -> 숨비 -> 일라 -> 혜리
+   치즈 -> 도리 -> 사라 -> 마스 -> 숨비 -> 일라 -> 혜리 -> 혜진
 
 
 
@@ -68,13 +68,15 @@
 
 ### joykiki
 
+### 629Hz
+
 # 🌔WEEK3::
 
-| Date   | Host       | Question Link |
-| ------ | ---------- | ------------- |
-| 15 Mon | divetech   |               |
-| 17 Wed | godori     |               |
-| 19 Fri | sweetroute |               |
+| Date   | Host     | Question Link |
+| ------ | -------- | ------------- |
+| 15 Mon | divetech |               |
+| 17 Wed | joykiki  |               |
+| 19 Fri | 629Hz    |               |
 
 # 👩‍💻Progress
 
@@ -91,14 +93,16 @@
 ### divetech
 
 ### joykiki
+
+### 629Hz
 
 # 🌝WEEK4::
 
-| Date   | Host         | Question Link |
-| ------ | ------------ | ------------- |
-| 22 Mon | HeaIn        |               |
-| 24 Wed | gyoungeunbae |               |
-| 26 Fri | MinjeeKang   |               |
+| Date   | Host       | Question Link |
+| ------ | ---------- | ------------- |
+| 22 Mon | godori     |               |
+| 24 Wed | sweetroute |               |
+| 26 Fri | HeaIn      |               |
 
 # 👩‍💻Progress
 
@@ -116,7 +120,7 @@
 
 ### joykiki
 
-
+### 629Hz
 
 **[⬆ Top](#)**
 
