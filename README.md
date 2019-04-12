@@ -12,7 +12,10 @@
 
    치즈 -> 도리 -> 사라 -> 마스 -> 숨비 -> 일라 -> 혜리 -> 혜진
 
+4.**회고**
 
+  4월 마지막주 금요일 
+  각자 4월 한달 동안 푼 문제를 회고하는 시간을 갖도록 하겠습니다. 
 
 # 🌒WEEK1::
 
@@ -55,7 +58,7 @@
 # 👩‍💻Progress
 
 ### godori
-
+- [🏔counting-valleys](https://www.notion.so/godori/Counting-Valleys-9f296e1684524b6a9018f3b1fe906ecd)
 ### sweetroute
 
 ### HeaIn
