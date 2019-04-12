@@ -50,7 +50,7 @@
 | ------ | ------------ | ------------------------------------------------------------ |
 | 08 Mon | HeaIn        | [append-and-delete](<https://www.hackerrank.com/challenges/append-and-delete/problem>) |
 | 10 Wed | gyoungeunbae | [CountungValleys](<https://www.hackerrank.com/challenges/counting-valleys/problem>) |
-| 12 Fri | MinjeeKang   |                                                              |
+| 12 Fri | MinjeeKang   | [1234의 나라](<https://programmers.co.kr/learn/courses/30/lessons/12899>) |
 
 # 👩‍💻Progress
 
