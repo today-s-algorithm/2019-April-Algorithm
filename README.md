@@ -59,6 +59,7 @@
 
 ### godori
 - [🏔counting-valleys](https://www.notion.so/godori/Counting-Valleys-9f296e1684524b6a9018f3b1fe906ecd)
+- [🦎append-and-delete](https://www.notion.so/godori/Append-and-Delete-0377d5d7b9fe4f54a43f2c442d0d7664)
 ### sweetroute
 
 ### HeaIn
