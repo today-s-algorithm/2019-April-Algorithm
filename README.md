@@ -66,6 +66,8 @@
 
 ### gyoungeunbae
 
+* [🏔counting-valleys](<https://github.com/gyoungeunbae/Daily-algorithm/blob/master/Answer/Counting-Valleys.java>)
+
 ### MinjeeKang
 
 ### DiveTech  
