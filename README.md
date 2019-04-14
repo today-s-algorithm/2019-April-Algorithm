@@ -74,6 +74,7 @@
 
 ### 629Hz
 - [append-and-delete](https://github.com/629Hz/daily-algorithm/blob/master/append-and-delete.kt)
+- [counting-valleys](https://github.com/629Hz/daily-algorithm/blob/master/counting-valleys)
 
 # 🌔WEEK3::
 
