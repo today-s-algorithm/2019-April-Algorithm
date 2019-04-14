@@ -72,6 +72,7 @@
 ### joykiki
 
 ### 629Hz
+- [append-and-delete](https://github.com/629Hz/daily-algorithm/blob/master/append-and-delete.kt)
 
 # 🌔WEEK3::
 
