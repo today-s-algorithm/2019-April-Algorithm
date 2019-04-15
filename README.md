@@ -83,7 +83,7 @@
 
 | Date   | Host     | Question Link |
 | ------ | -------- | ------------- |
-| 15 Mon | divetech |               |
+| 15 Mon | divetech | [Chocolate-feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) |
 | 17 Wed | joykiki  |               |
 | 19 Fri | 629Hz    |               |
 
