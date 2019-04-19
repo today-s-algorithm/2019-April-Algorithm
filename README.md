@@ -81,11 +81,11 @@
 
 # 🌔WEEK3::
 
-| Date   | Host     | Question Link |
-| ------ | -------- | ------------- |
+| Date   | Host     | Question Link                                                |
+| ------ | -------- | ------------------------------------------------------------ |
 | 15 Mon | divetech | [Chocolate-feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) |
-| 17 Wed | joykiki  |               |
-| 19 Fri | 629Hz    |               |
+| 17 Wed | joykiki  | [sock-merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) |
+| 19 Fri | 629Hz    | [더맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) |
 
 # 👩‍💻Progress
 
