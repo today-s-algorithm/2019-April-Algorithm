@@ -103,8 +103,6 @@
 
 ### DiveTech  
 
-### joykiki
-
 ### 629Hz
 - 🍫[chocolate-feast](https://github.com/629Hz/daily-algorithm/blob/master/ChocolateFeast.kt)
 
@@ -129,8 +127,6 @@
 ### MinjeeKang
 
 ### DiveTech  
-
-### joykiki
 
 ### 629Hz
 
