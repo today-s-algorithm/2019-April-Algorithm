@@ -110,7 +110,7 @@
 
 | Date   | Host       | Question Link |
 | ------ | ---------- | ------------- |
-| 22 Mon | godori     |               |
+| 22 Mon | godori     | [Anglry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|
 | 24 Wed | sweetroute |               |
 | 26 Fri | HeaIn      |               |
 
