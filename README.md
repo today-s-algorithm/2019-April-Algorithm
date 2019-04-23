@@ -116,8 +116,8 @@
 | Date   | Host       | Question Link |
 | ------ | ---------- | ------------- |
 | 22 Mon | godori     | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|
-| 24 Wed | sweetroute |               |
-| 26 Fri | HeaIn      |               |
+| 24 Wed | HeaIn      | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|
+| 26 Fri |            |               |
 
 # 👩‍💻Progress
 
