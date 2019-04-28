@@ -122,7 +122,7 @@
 # 👩‍💻Progress
 
 ### godori
-
+- 😠[angry-professor](https://www.notion.so/godori/Angry-Professor-32b83fd11eeb4b49a3d83cf0bee467e1)
 ### sweetroute
 
 ### HeaIn
